@@ -22,7 +22,8 @@ For more <b>Click👉 /help</b>
     HELP_USER = """Here is <b>How to use this bot.</b>
     
 1. Send me any Telegram File.
-2. Choose appropriate option.
+2. Send the thumbnail you want to apply.
+3. Choose appropriate option.
 
 <b>Support Group</b> :- 🐠@ubuntu_coders🐠
 <b>Support Channel</b> :- 🐬@UC_bot_channel🐬
